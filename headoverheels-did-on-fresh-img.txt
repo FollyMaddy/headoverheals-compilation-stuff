@@ -1497,7 +1497,9 @@ libpng-dev libogg-dev
 
 For now I will not install allegro packages yet.
 
-Ok tried to install libpng-dev libogg-dev but they are laready install.
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Ok, so I tried to install libpng-dev libogg-dev but they are already install.
 
 pi@raspberrypi:~/Downloads/HeadOverHeels-master $ sudo apt install libpng-dev libogg-dev
 Reading package lists... Done
