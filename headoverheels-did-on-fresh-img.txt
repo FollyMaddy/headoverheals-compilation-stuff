@@ -63,7 +63,7 @@ make: *** No targets specified and no makefile found.  Stop.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-Ok, so I need to get the vorbis headers so I istalled the dependancy libvorbis-dev.
+Ok, so I need to get the dependancy so I istalled libvorbis-dev.
 
 pi@raspberrypi:~/Downloads/HeadOverHeels-master $ sudo apt install libvorbis-dev
 
@@ -85,7 +85,7 @@ make: *** No targets specified and no makefile found.  Stop.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-Ok, so I need to get the vorbis headers so I istalled the dependancy libtinyxml2-dev.
+Ok, so I need to get the dependancy so I istalled libtinyxml2-dev.
 
 pi@raspberrypi:~/Downloads/HeadOverHeels-master $ sudo apt install libtinyxml2-dev
 
